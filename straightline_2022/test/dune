@@ -1,0 +1,5 @@
+(test
+ (name straightline_2022)
+ (libraries print-box)
+ (preprocess
+  (pps ppx_deriving)))

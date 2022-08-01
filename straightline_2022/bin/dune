@@ -1,0 +1,6 @@
+(executable
+ (public_name straightline_2022)
+ (name main)
+ (libraries straightline_2022 print-box)
+ (preprocess
+  (pps ppx_deriving)))
